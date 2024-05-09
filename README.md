@@ -168,4 +168,10 @@ It is used for:
 
 - [Frontend Developer RoadMap](https://roadmap.sh/frontend)
 
+- [LeetCode Study Plan](https://pittcs.wiki/career/study-plan/)
+
+- [Leetcode Checklist](https://erratic-aletopelta-d86.notion.site/Template-Leetcode-Checklist-8246bb89ac0b4016ae61daeebe2cf1ab)
+
+- [Coding interview study plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
+
 </details>
