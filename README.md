@@ -1,5 +1,192 @@
 # StudyLeetCode
 
+### Study Plan
+
+Here’s a detailed breakdown of Coursera courses, Leetcode problems, and other specifics for your 3-month plan:
+
+Phase 1: Foundational Skills (Weeks 1–4)
+
+Courses on Coursera
+
+1.	Week 1: HTML & CSS Fundamentals
+    •	HTML, CSS, and JavaScript for Web Developers by Johns Hopkins University.
+    •	Focus Modules:
+    •	Week 1–3 (HTML, CSS basics, responsive design with Bootstrap).
+    •	Build practice projects like a portfolio page and responsive layouts.
+2.	Week 2–3: JavaScript Basics & Advanced Topics
+    •	JavaScript for Beginners (Guided Project).
+    •	Programming with JavaScript by Meta.
+    •	Focus Modules:
+    •	Introduction to ES6+ syntax (arrow functions, let/const, template literals).
+    •	DOM manipulation and event listeners.
+3.	Week 4: Object-Oriented JavaScript & React Basics
+    •	Front-End Web Development with React by HKUST.
+    •	Focus Modules:
+    •	Introduction to React components and JSX.
+    •	Using props, state, and lifecycle methods.
+
+Leetcode Problems (Phase 1)
+
+Start with easy problems to build confidence and focus on key JavaScript concepts:
+1.	Strings:
+    •	Valid Palindrome
+    •	Reverse String
+2.	Arrays:
+    •	Two Sum
+    •	Best Time to Buy and Sell Stock
+3.	Basic DOM Challenges (external resources):
+    •	Create a counter app.
+    •	Build a simple dropdown menu.
+
+Phase 2: Intermediate Development & Problem-Solving (Weeks 5–8)
+
+Courses on Coursera
+
+1.	Week 5–6: Advanced React Development
+    •	Advanced React Patterns (Guided Project).
+    •	Focus Modules:
+    •	Context API for state management.
+    •	React Router for routing and navigation.
+    •	React Basics (Guided Project).
+    •	Build a blog app or weather app with API integration.
+2.	Week 7: Testing and Code Reusability
+    •	Test-Driven Development (Guided Project).
+    •	JavaScript Unit Testing (Guided Project).
+3.	Week 8: Performance Debugging
+    •	Debugging and Performance Optimization (Guided Project).
+
+Leetcode Problems (Phase 2)
+
+Focus on medium-level problems to develop problem-solving skills:
+1.	Strings and Arrays:
+    •	Longest Substring Without Repeating Characters
+    •	Merge Intervals
+2.	HashMap:
+    •	Group Anagrams
+    •	Top K Frequent Elements
+3.	API Integration Practice:
+    •	Use a free API like OpenWeatherMap or JSONPlaceholder to fetch and display data in a React app.
+
+Phase 3: Advanced Topics & Portfolio Building (Weeks 9–12)
+
+Courses on Coursera
+
+1.	Week 9: Advanced JavaScript & Architecture
+    •	Advanced JavaScript (Guided Project).
+    •	Architecting Front-End Applications by Meta.
+2.	Week 10: Full-Stack Project Development
+    •	Full-Stack Development by HKUST.
+    •	Use a back-end API and build a front-end interface to manage tasks or user profiles.
+3.	Weeks 11–12: Mock Interviews & Final Prep
+    •	Coding Interview Preparation (Guided Project).
+
+Leetcode Problems (Phase 3)
+
+Practice a mix of easy, medium, and hard problems to simulate real interview scenarios:
+1.	Dynamic Programming:
+    •	Climbing Stairs
+    •	House Robber
+2.	Sliding Window:
+    •	Minimum Window Substring
+    •	Sliding Window Maximum
+3.	React Coding Challenges (external resources):
+    •	Build a Kanban board or task management tool.
+    •	Create a data visualization dashboard using Chart.js.
+
+Final Portfolio Projects
+
+1. Portfolio Website: Responsive site showcasing your projects, skills, and GitHub.
+2. Blog App (React): CRUD functionality, using an API.
+3. Social Media Dashboard: Display user stats and graphs (use a library like D3.js or Chart.js).
+4. E-commerce Platform: A product catalog with a shopping cart and checkout process.
+
+Some curated APIs and additional resources for project ideas and practice:
+
+Free APIs for Projects
+
+1.	OpenWeatherMap
+    •	Description: Fetch real-time weather data for any city.
+    •	Link: OpenWeatherMap API
+    •	Project Ideas:
+    •	Weather Dashboard with daily and weekly forecasts.
+    •	Location-based weather updates using browser geolocation.
+2.	JSONPlaceholder
+    •	Description: Free, fake REST API for testing and prototyping.
+    •	Link: JSONPlaceholder
+    •	Project Ideas:
+    •	Build a Blog App (CRUD operations with posts and comments).
+    •	Create a User Management Dashboard.
+3.	TheMealDB
+    •	Description: Recipe and food database with meal categories and search options.
+    •	Link: TheMealDB API
+    •	Project Ideas:
+    •	Create a Recipe Search App with filters for cuisines or meal types.
+    •	Random Recipe Generator with meal details and images.
+4.	PokeAPI
+    •	Description: Pokémon database with detailed stats and information.
+    •	Link: PokeAPI
+    •	Project Ideas:
+    •	Build a Pokémon Explorer App with filters for types or abilities.
+    •	Compare Pokémon stats visually using Chart.js or D3.js.
+5.	NewsAPI
+    •	Description: Fetch the latest news headlines from various sources.
+    •	Link: NewsAPI
+    •	Project Ideas:
+    •	Create a News Dashboard with keyword-based search.
+    •	Add category filters (e.g., business, technology, sports).
+6.	REST Countries API
+    •	Description: Fetch data about countries, including population, flags, and regions.
+    •	Link: REST Countries
+    •	Project Ideas:
+    •	Build a Country Explorer with region filters.
+    •	Display country stats visually (e.g., population, area).
+7.	Spotify Web API
+    •	Description: Integrate music streaming features like playlists and track search.
+    •	Link: Spotify for Developers
+    •	Project Ideas:
+    •	Music Discovery App with search and recommendations.
+    •	Playlist Creator with drag-and-drop UI.
+
+More Leetcode Practice Problems by Category
+
+JavaScript-Specific Challenges
+
+1.	Flatten Nested List Iterator (Medium)
+2.	Sum of Two Integers (Medium)
+3.	Deepest Leaves Sum (Medium)
+
+Frontend-Focused Challenges
+
+1.	DOM Manipulation
+    •	Build a dynamic table with sorting and filtering options.
+    •	Create a modal popup with form validation.
+2.	Dynamic Data Display
+    •	Design Add and Search Words Data Structure (Medium)
+    •	Design a Leaderboard (Medium)
+
+React Interview Problems
+
+1.	Build a counter component with a start/stop timer.
+2.	Create a dropdown with search and filter options.
+3.	Develop a reusable pagination component.
+
+External Resources for Hands-On Challenges
+
+1.	Frontend Mentor
+    •	Description: Real-world frontend challenges with design specs.
+    •	Link: Frontend Mentor
+    •	Recommended Challenges:
+    •	Responsive layout challenges.
+    •	API integration projects.
+2.	CodePen Projects
+    •	Description: Experiment with mini-projects like CSS animations, forms, and DOM manipulation.
+    •	Link: CodePen Challenges
+3.	Exercism
+    •	Description: JavaScript track with guided exercises.
+    •	Link: Exercism JavaScript
+
+</br>
+
 ### LeetCode Patterns
 
 - [ ] Sliding Window
@@ -22,6 +209,8 @@
 - [ ] Fibonacci Numbers
 - [ ] Palindromic Subsequence
 - [ ] Longest Common Substring
+
+</br>
 
 ### Leetcode Checklist
 
