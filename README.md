@@ -2,188 +2,7 @@
 
 ### Study Plan
 
-Here’s a detailed breakdown of Coursera courses, Leetcode problems, and other specifics for your 3-month plan:
 
-Phase 1: Foundational Skills (Weeks 1–4)
-
-Courses on Coursera
-
-1.	Week 1: HTML & CSS Fundamentals
-    •	HTML, CSS, and JavaScript for Web Developers by Johns Hopkins University.
-    •	Focus Modules:
-    •	Week 1–3 (HTML, CSS basics, responsive design with Bootstrap).
-    •	Build practice projects like a portfolio page and responsive layouts.
-2.	Week 2–3: JavaScript Basics & Advanced Topics
-    •	JavaScript for Beginners (Guided Project).
-    •	Programming with JavaScript by Meta.
-    •	Focus Modules:
-    •	Introduction to ES6+ syntax (arrow functions, let/const, template literals).
-    •	DOM manipulation and event listeners.
-3.	Week 4: Object-Oriented JavaScript & React Basics
-    •	Front-End Web Development with React by HKUST.
-    •	Focus Modules:
-    •	Introduction to React components and JSX.
-    •	Using props, state, and lifecycle methods.
-
-Leetcode Problems (Phase 1)
-
-Start with easy problems to build confidence and focus on key JavaScript concepts:
-1.	Strings:
-    •	Valid Palindrome
-    •	Reverse String
-2.	Arrays:
-    •	Two Sum
-    •	Best Time to Buy and Sell Stock
-3.	Basic DOM Challenges (external resources):
-    •	Create a counter app.
-    •	Build a simple dropdown menu.
-
-Phase 2: Intermediate Development & Problem-Solving (Weeks 5–8)
-
-Courses on Coursera
-
-1.	Week 5–6: Advanced React Development
-    •	Advanced React Patterns (Guided Project).
-    •	Focus Modules:
-    •	Context API for state management.
-    •	React Router for routing and navigation.
-    •	React Basics (Guided Project).
-    •	Build a blog app or weather app with API integration.
-2.	Week 7: Testing and Code Reusability
-    •	Test-Driven Development (Guided Project).
-    •	JavaScript Unit Testing (Guided Project).
-3.	Week 8: Performance Debugging
-    •	Debugging and Performance Optimization (Guided Project).
-
-Leetcode Problems (Phase 2)
-
-Focus on medium-level problems to develop problem-solving skills:
-1.	Strings and Arrays:
-    •	Longest Substring Without Repeating Characters
-    •	Merge Intervals
-2.	HashMap:
-    •	Group Anagrams
-    •	Top K Frequent Elements
-3.	API Integration Practice:
-    •	Use a free API like OpenWeatherMap or JSONPlaceholder to fetch and display data in a React app.
-
-Phase 3: Advanced Topics & Portfolio Building (Weeks 9–12)
-
-Courses on Coursera
-
-1.	Week 9: Advanced JavaScript & Architecture
-    •	Advanced JavaScript (Guided Project).
-    •	Architecting Front-End Applications by Meta.
-2.	Week 10: Full-Stack Project Development
-    •	Full-Stack Development by HKUST.
-    •	Use a back-end API and build a front-end interface to manage tasks or user profiles.
-3.	Weeks 11–12: Mock Interviews & Final Prep
-    •	Coding Interview Preparation (Guided Project).
-
-Leetcode Problems (Phase 3)
-
-Practice a mix of easy, medium, and hard problems to simulate real interview scenarios:
-1.	Dynamic Programming:
-    •	Climbing Stairs
-    •	House Robber
-2.	Sliding Window:
-    •	Minimum Window Substring
-    •	Sliding Window Maximum
-3.	React Coding Challenges (external resources):
-    •	Build a Kanban board or task management tool.
-    •	Create a data visualization dashboard using Chart.js.
-
-Final Portfolio Projects
-
-1. Portfolio Website: Responsive site showcasing your projects, skills, and GitHub.
-2. Blog App (React): CRUD functionality, using an API.
-3. Social Media Dashboard: Display user stats and graphs (use a library like D3.js or Chart.js).
-4. E-commerce Platform: A product catalog with a shopping cart and checkout process.
-
-Some curated APIs and additional resources for project ideas and practice:
-
-Free APIs for Projects
-
-1.	OpenWeatherMap
-    •	Description: Fetch real-time weather data for any city.
-    •	Link: OpenWeatherMap API
-    •	Project Ideas:
-    •	Weather Dashboard with daily and weekly forecasts.
-    •	Location-based weather updates using browser geolocation.
-2.	JSONPlaceholder
-    •	Description: Free, fake REST API for testing and prototyping.
-    •	Link: JSONPlaceholder
-    •	Project Ideas:
-    •	Build a Blog App (CRUD operations with posts and comments).
-    •	Create a User Management Dashboard.
-3.	TheMealDB
-    •	Description: Recipe and food database with meal categories and search options.
-    •	Link: TheMealDB API
-    •	Project Ideas:
-    •	Create a Recipe Search App with filters for cuisines or meal types.
-    •	Random Recipe Generator with meal details and images.
-4.	PokeAPI
-    •	Description: Pokémon database with detailed stats and information.
-    •	Link: PokeAPI
-    •	Project Ideas:
-    •	Build a Pokémon Explorer App with filters for types or abilities.
-    •	Compare Pokémon stats visually using Chart.js or D3.js.
-5.	NewsAPI
-    •	Description: Fetch the latest news headlines from various sources.
-    •	Link: NewsAPI
-    •	Project Ideas:
-    •	Create a News Dashboard with keyword-based search.
-    •	Add category filters (e.g., business, technology, sports).
-6.	REST Countries API
-    •	Description: Fetch data about countries, including population, flags, and regions.
-    •	Link: REST Countries
-    •	Project Ideas:
-    •	Build a Country Explorer with region filters.
-    •	Display country stats visually (e.g., population, area).
-7.	Spotify Web API
-    •	Description: Integrate music streaming features like playlists and track search.
-    •	Link: Spotify for Developers
-    •	Project Ideas:
-    •	Music Discovery App with search and recommendations.
-    •	Playlist Creator with drag-and-drop UI.
-
-More Leetcode Practice Problems by Category
-
-JavaScript-Specific Challenges
-
-1.	Flatten Nested List Iterator (Medium)
-2.	Sum of Two Integers (Medium)
-3.	Deepest Leaves Sum (Medium)
-
-Frontend-Focused Challenges
-
-1.	DOM Manipulation
-    •	Build a dynamic table with sorting and filtering options.
-    •	Create a modal popup with form validation.
-2.	Dynamic Data Display
-    •	Design Add and Search Words Data Structure (Medium)
-    •	Design a Leaderboard (Medium)
-
-React Interview Problems
-
-1.	Build a counter component with a start/stop timer.
-2.	Create a dropdown with search and filter options.
-3.	Develop a reusable pagination component.
-
-External Resources for Hands-On Challenges
-
-1.	Frontend Mentor
-    •	Description: Real-world frontend challenges with design specs.
-    •	Link: Frontend Mentor
-    •	Recommended Challenges:
-    •	Responsive layout challenges.
-    •	API integration projects.
-2.	CodePen Projects
-    •	Description: Experiment with mini-projects like CSS animations, forms, and DOM manipulation.
-    •	Link: CodePen Challenges
-3.	Exercism
-    •	Description: JavaScript track with guided exercises.
-    •	Link: Exercism JavaScript
 
 </br>
 
@@ -470,6 +289,12 @@ Week 15 of 12: Dynamic Programming
 
 HTML is the standard markup language for creating Web pages.
 
+HTML is the foundation of a webpage. It provides the structure and content of the page.
+* Purpose: Defines the layout and elements on the page (e.g., headings, paragraphs, images, links, buttons).
+* Analogy: Think of HTML as the skeleton of a house—it gives it shape and defines where things go.
+
+## 📔 Resources
+
 </br>
 
 
@@ -479,6 +304,13 @@ HTML is the standard markup language for creating Web pages.
 CSS is the language we use to style a Web page.
 
 CSS describes how HTML elements should be displayed.
+
+CSS is used to style and design the webpage, controlling its appearance.
+* Purpose: Adds colors, fonts, layouts, and animations to make the page visually appealing.
+* Analogy: CSS is like the paint, furniture, and decorations in a house—it makes it look attractive.
+
+## 📔 Resources
+
 
 </br>
 
@@ -502,9 +334,7 @@ Good to use to keep things consistent.
 
 </br>
 
-
-
-# JavaScript
+# JavaScript & React & Next.js & TypeScript & Node.js
 
 JavaScript is the Programming Language for the Web.
 
@@ -512,17 +342,251 @@ JavaScript can update and change both HTML and CSS.
 
 JavaScript can calculate, manipulate and validate data.
 
+JavaScript makes a webpage interactive and adds dynamic behavior.
+* Purpose: Adds functionality like responding to user actions, updating content without reloading, and more.
+* Analogy: JavaScript is like the electrical wiring and appliances in a house—it makes things work, like turning on the lights.
+
 </br>
 
-
-
-# React
 
 React is a JavaScript library created by Facebook.
 
 React is a User Interface (UI) library.
 
 React is a tool for building UI components.
+
+Vanilla JavaScript is primarily an imperative programming language, while React is an example of a framework that employs a declarative programming style. 
+
+Imperative programming is a style where you write code that explicitly tells the computer how to perform tasks step by step. You directly manage the program’s state and the sequence of instructions.
+* Focus: The how — the steps needed to achieve a result.
+* Example: Manipulating the DOM in vanilla JavaScript.
+
+Declarative programming focuses on describing what you want the outcome to be, leaving the underlying system (like React) to figure out how to implement it. You declare the desired UI state, and the framework handles updating the DOM efficiently.
+* Focus: The what — the end result or the desired state.
+* Example: Creating a component in React.
+
+***
+
+_Notes:_
+* Imperative: Writing detailed step-by-step instructions for cooking a meal (e.g., “chop the vegetables, heat the pan, add oil”).
+* Declarative: Ordering a meal by describing what you want (e.g., “I’d like a vegetable stir-fry”). The kitchen (React) takes care of the rest.
+
+***
+
+
+</br>
+
+### 📔 Resources
+
+## Meta Front-End Developer - Coursera
+
+[Meta Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+
+**What you'll learn**
+
+* Create a responsive website using HTML to structure content, CSS to handle visual style, and JavaScript to develop interactive experiences.
+
+* Learn to use React in relation to Javascript libraries and frameworks.
+
+* Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.
+
+* Prepare for a coding interview, learn best approaches to problem-solving, and build portfolio-ready projects you can share during job interviews.
+
+**Skills you'll gain**
+
+* HTML
+
+* UI/UX design
+
+* JavaScript
+
+* Cascading Style Sheets (CSS)
+
+* React
+
+**Courses**
+
+*  [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer)
+*  [Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript?specialization=meta-front-end-developer)
+*  [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer)
+*  [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth?specialization=meta-front-end-developer)
+*  [React Basics](https://www.coursera.org/learn/react-basics?specialization=meta-front-end-developer)
+*  [Advanced React](https://www.coursera.org/learn/advanced-react?specialization=meta-front-end-developer)
+*  [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-front-end-developer)
+*  [Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone?specialization=meta-front-end-developer)
+*  [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-front-end-developer)
+
+## Meta Back-End Developer - Coursera
+
+[Meta Back-End Developer](https://www.coursera.org/professional-certificates/meta-back-end-developer)
+
+**What you'll learn**
+
+* Gain the technical skills required to become a qualified back-end developer
+
+* Learn to use programming systems including Python Syntax, Linux commands, Git, SQL, Version Control, Cloud Hosting, APIs, JSON, XML and more
+
+* Build a portfolio using your new skills and begin interview preparation including tips for what to expect when interviewing for engineering jobs
+
+* Learn in-demand programming skills and how to confidently use code to solve problems
+
+**Skills you'll gain**
+
+* Django (Web Framework)
+
+* API endpoints
+
+* MySQL
+
+* HTML
+
+* Production environments
+
+* JavaScript
+
+* Cascading Style Sheets (CSS)
+
+* Version Control
+
+* Github
+
+* Bash (Unix Shell)
+
+* Web Development
+
+* Linux
+
+* Data Structure
+
+**Courses**
+
+*  [Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer)
+
+*  [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
+
+*  [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-back-end-developer)
+
+*  [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer)
+
+*  Django Web Framework
+
+*  [APIs](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer)
+
+*  [The Full Stack](https://www.coursera.org/learn/the-full-stack?specialization=meta-back-end-developer)
+
+*  Back-End Developer Capstone
+
+*  [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer)
+
+## React Foundation
+
+[React Foundation - Next.js](https://nextjs.org/learn/react-foundations)
+
+- [x] 1. about react and next.js
+- [x] 2. rendering user interfaces (UI)
+- [x] 3. updating UI with javascript
+- [x] 4. getting started with react
+- [ ] 5. building UI with components
+- [ ] 6. displaying data with props
+- [ ] 7. adding interactivity with state
+- [ ] 8. from react to next.js
+- [ ] 9. installing next.js
+- [ ] 10. server and client components
+
+
+
+## Learn Next.js
+
+[Learn Next.js](https://nextjs.org/learn/dashboard-app)
+
+- [ ]  1. getting started
+- [ ]  2. css styling
+- [ ]  3. optimizing fonts and images
+- [ ]  4. creating layouts and pages
+- [ ]  5. navigating between pages
+- [ ]  6. setting up your database
+- [ ]  7. fetching data
+- [ ]  8. static and dynamic rendering
+- [ ]  9. streaming
+- [ ]  10. partial prerendering
+- [ ]  11. adding search and pagination
+- [ ]  12. mutating data
+- [ ]  13. handling errors
+- [ ]  14. improving accessibility
+- [ ]  15. adding authentication
+- [ ]  16. adding metadata
+
+## Getting Started with Node.js
+Getting Started
+* [Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+* [How to install Node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
+* [How much JavaScript do you need to know to use Node.js?](https://nodejs.org/en/learn/getting-started/how-much-javascript-do-you-need-to-know-to-use-nodejs)
+* [Differences between Node.js and the Browser](https://nodejs.org/en/learn/getting-started/differences-between-nodejs-and-the-browser)
+* [The V8 JavaScript Engine](https://nodejs.org/en/learn/getting-started/the-v8-javascript-engine)
+* [An introduction to the npm package manager](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager)
+* [ECMAScript 2015 (ES6) and beyond](https://nodejs.org/en/learn/getting-started/ecmascript-2015-es6-and-beyond)
+* [Node.js, the difference between development and production](https://nodejs.org/en/learn/getting-started/nodejs-the-difference-between-development-and-production)
+* [Node.js with WebAssembly](https://nodejs.org/en/learn/getting-started/nodejs-with-webassembly)
+* [Debugging Node.js](https://nodejs.org/en/learn/getting-started/debugging)
+* [Profiling Node.js Applications](https://nodejs.org/en/learn/getting-started/profiling)
+* [Security Best Practices](https://nodejs.org/en/learn/getting-started/security-best-practices)
+
+TypeScript
+* [Introduction to TypeScript](https://nodejs.org/en/learn/typescript/introduction)
+* [Running TypeScript code using transpilation](https://nodejs.org/en/learn/typescript/transpile)
+* [Running TypeScript with a runner](https://nodejs.org/en/learn/typescript/run)
+* [Running TypeScript Natively](https://nodejs.org/en/learn/typescript/run-natively)
+
+Asynchronous Work
+* [Asynchronous flow control](https://nodejs.org/en/learn/asynchronous-work/asynchronous-flow-control)
+* [Overview of Blocking vs Non-Blocking](https://nodejs.org/en/learn/asynchronous-work/overview-of-blocking-vs-non-blocking)
+* [JavaScript Asynchronous Programming and Callbacks](https://nodejs.org/en/learn/asynchronous-work/javascript-asynchronous-programming-and-callbacks)
+* [Discover JavaScript Timers](https://nodejs.org/en/learn/asynchronous-work/discover-javascript-timers)
+* [The Node.js Event Loop](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick)
+* [The Node.js Event Emitter](https://nodejs.org/en/learn/asynchronous-work/the-nodejs-event-emitter)
+* [Understanding process.nextTick()](https://nodejs.org/en/learn/asynchronous-work/understanding-processnexttick)
+* [Understanding setImmediate()](https://nodejs.org/en/learn/asynchronous-work/understanding-setimmediate)
+* [Don't Block the Event Loop](https://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop)
+
+Manipulating Files
+* [Node.js file stats](https://nodejs.org/en/learn/manipulating-files/nodejs-file-stats)
+* [Node.js File Paths](https://nodejs.org/en/learn/manipulating-files/nodejs-file-paths)
+* [Working with file descriptors in Node.js](https://nodejs.org/en/learn/manipulating-files/working-with-file-descriptors-in-nodejs)
+* [Reading files with Node.js](https://nodejs.org/en/learn/manipulating-files/reading-files-with-nodejs)
+* [Writing files with Node.js](https://nodejs.org/en/learn/manipulating-files/writing-files-with-nodejs)
+* [Working with folders in Node.js](https://nodejs.org/en/learn/manipulating-files/working-with-folders-in-nodejs)
+* [How to work with Different Filesystems](https://nodejs.org/en/learn/manipulating-files/working-with-different-filesystems)
+
+Command Line
+* [Run Node.js scripts from the command line](https://nodejs.org/en/learn/command-line/run-nodejs-scripts-from-the-command-line)
+* [How to read environment variables from Node.js](https://nodejs.org/en/learn/command-line/how-to-read-environment-variables-from-nodejs)
+* [How to use the Node.js REPL](https://nodejs.org/en/learn/command-line/how-to-use-the-nodejs-repl)
+* [Output to the command line using Node.js](https://nodejs.org/en/learn/command-line/output-to-the-command-line-using-nodejs)
+* [Accept input from the command line in Node.js](https://nodejs.org/en/learn/command-line/accept-input-from-the-command-line-in-nodejs)
+
+Modules
+* [How to publish a Node-API package](https://nodejs.org/en/learn/modules/publishing-node-api-modules)
+* [Anatomy of an HTTP Transaction](https://nodejs.org/en/learn/modules/anatomy-of-an-http-transaction)
+* [ABI Stability](https://nodejs.org/en/learn/modules/abi-stability)
+* [Backpressuring in Streams](https://nodejs.org/en/learn/modules/backpressuring-in-streams)
+
+Diagnostics
+* [User Journey](https://nodejs.org/en/learn/diagnostics/user-journey)
+* [Memory](https://nodejs.org/en/learn/diagnostics/memory)
+* [Live Debugging](https://nodejs.org/en/learn/diagnostics/live-debugging)
+* [Poor Performance](https://nodejs.org/en/learn/diagnostics/poor-performance)
+* [Flame Graphs](https://nodejs.org/en/learn/diagnostics/flame-graphs)
+
+Test Runner
+* [Discovering Node.js's test runner](https://nodejs.org/en/learn/test-runner/introduction)
+* [Using Node.js's test runner](https://nodejs.org/en/learn/test-runner/using-test-runner)
+* [Mocking in tests](https://nodejs.org/en/learn/test-runner/mocking)
+
+
+
+***
+
+* [JavaScript高级程序设计 pdf](https://github.com/Mrrabbitan/learningMaterials/blob/master/JavaScript高级程序设计（第4版）.pdf)
 
 </br>
 
