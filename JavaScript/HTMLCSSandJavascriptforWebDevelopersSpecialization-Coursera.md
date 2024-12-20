@@ -16,7 +16,7 @@ HTML, CSS, and Javascript for Web Developers Specialization - Coursera
 
 
 
-[HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?specialization=html-css-javascript-for-web-developers)
+✅ [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?specialization=html-css-javascript-for-web-developers)
 
 [Introduction to CSS3](https://www.coursera.org/learn/introduction-to-css3-jhu?specialization=html-css-javascript-for-web-developers)
 
