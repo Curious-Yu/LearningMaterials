@@ -1,0 +1,61 @@
+/* Styles for the container and box */
+.container {
+  display: flex;
+  flex-wrap: wrap; /* Allow wrapping */
+  gap: 20px; /* Space between boxes */
+  padding: 10px;
+}
+
+.box {
+  background-color: lightblue;
+  padding: 0px;
+  text-align: center;
+  border: 1px solid #ccc;
+  flex: 1 1 calc(33.33% - 20px); /* Default: 3 boxes per row */
+  box-sizing: border-box; /* Ensure padding is included in the width */
+  border: solid 1px;
+}
+
+/* Media query for screen sizes between 767px and 991px */
+@media (max-width: 991px) and (min-width: 768px) {
+  .box {
+    flex: 1 1 calc(50% - 20px); /* 2 boxes per row */
+    background-color: lightpink;
+  }
+  
+  .box:nth-child(3) {
+    flex: 1 1 100%; /* 3rd boxes spans full width */
+  }
+}
+
+/* Media query for screen sizes smaller than 767px */
+@media (max-width: 767px) {
+  .container {
+    flex-direction: column; /* Stack boxes vertically */
+  }
+  
+  .box {
+    flex: 1 1 100%; /* Each boxes spans full width */
+    background-color: lightgoldenrodyellow;
+  }
+}
+
+
+/* Styling the title */
+
+.box h3 {
+  text-align: center;
+  position: relative;
+  top: 0px;
+  left: 50%;
+  width: 50%;
+  background-color: chartreuse;
+  margin: 0;
+  border: solid 1px;
+}
+
+.box p {
+  padding: 10px;
+  margin: 10px;
+}
+
