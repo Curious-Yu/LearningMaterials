@@ -11,3 +11,5 @@
 - [Leetcode Checklist](https://erratic-aletopelta-d86.notion.site/Template-Leetcode-Checklist-8246bb89ac0b4016ae61daeebe2cf1ab)
 
 - [Coding interview study plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
+
+- [LeetCode-JS 通关指南](https://2xiao.github.io/leetcode-js/)
