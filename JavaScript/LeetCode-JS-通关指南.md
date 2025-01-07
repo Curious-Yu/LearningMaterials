@@ -117,3 +117,70 @@ AVL 树 | log(n) | log(n) | log(n) | log(n) |  
 - **Stability**: A stable sorting algorithm preserves the relative order of elements with equal keys.
 - **n**: Number of elements in the array.
 - **k**: Range of input (used in counting-based algorithms like Counting Sort and Radix Sort).
+
+
+# 
+
+<Details>
+  <summary>
+    分析复杂度的一些规则 Rules for Analyzing Complexity
+  </summary>
+
+多个时间复杂度相加，如果都是与 n 相关，则取取复杂度高的那一个，例如：O(nlogn + n) = O(nlogn)，O(nlogn + n^2) = O(n^2)。
+
+多个时间复杂度相加，如果其中有些项的复杂度和 n 不相关则不能忽略任何项，例如：O(AlogA + B)，O(AlogA + B^2)
+
+两个循环依次执行，则取复杂度高的那个，嵌套多个循环则需要累乘复杂度。
+  
+</Details>
+
+1.	Adding Time Complexities Related to ￼:
+When adding multiple time complexities that are all related to ￼, the term with the highest growth rate dominates.
+
+Example:
+O(n \log n + n) = O(n \log n) 
+O(n \log n + n^2) = O(n^2)
+
+
+2.	Adding Time Complexities with Independent Terms:
+If some terms are not related to ￼, they cannot be ignored. The final complexity will include all unrelated terms.
+
+Example:
+O(A \log A + B) : Includes both terms because  A  and  B  are independent.
+O(A \log A + B^2) : Includes both  A \log A  and  B^2  as separate complexities.
+
+3.	Sequential Loops:
+When two loops execute one after another, the overall complexity is determined by the higher of the two.
+	•	Example:
+```
+for (int i = 0; i < n; i++) {  // O(n)
+  // some operations
+}
+for (int j = 0; j < n * n; j++) {  // O(n^2)
+  // some operations
+}
+```
+
+Total complexity =  O(n^2) 
+
+4.	Nested Loops:
+When loops are nested, their complexities are multiplied.
+	•	Example:
+```
+for (int i = 0; i < n; i++) {        // O(n)
+  for (int j = 0; j < n; j++) {      // O(n)
+    for (int k = 0; k < n; k++) {    // O(n)
+      // some operations
+    }
+  }
+}
+```
+
+Total complexity =  O(n^3) 
+
+Key Takeaways
+
+- Focus on the dominant term when terms depend on ￼.
+- Do not ignore unrelated independent terms.
+- Multiply complexities for nested loops and compare for sequential loops.
+- Always analyze how different variables and loops interact when combining complexities.
